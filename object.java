@@ -12,7 +12,7 @@ class Penn{
     }
 }
 
-class hlo {
+class hello {
     public static void main(String[] args) {
         // Creating an object of the Pen class
         Penn Penn1 = new Penn();
